@@ -17,6 +17,7 @@ public class Luis {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("mi nombre es luis");
+        System.out.println("hola otra vez");
     }
     
 }
